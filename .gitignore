@@ -24,5 +24,8 @@ go.work.sum
 # .idea project files
 .idea
 
+# vscode 
+**/.vscode/
+
 # .env file
 .env
