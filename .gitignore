@@ -27,5 +27,8 @@ go.work.sum
 # vscode 
 **/.vscode/
 
+# dot graphs 
+*.dot
+
 # .env file
 .env
